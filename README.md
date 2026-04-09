@@ -4,6 +4,4 @@ Trapstar is a UK streetwear brand celebrated for its bold, edgy designs. Known f
 # Tuta Trapstar
 https://trapstaritaly.org/tuta/
 
-# Chrome hearts hoodie size guide:
- 
-https://chromehearts21.com/chrome-hearts-hoodie-sizing-guide/
+
