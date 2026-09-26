@@ -9,3 +9,6 @@ https://trapstaritaly.org/
 
 # giubbotto trapstar
 https://trapstaritaly.org/giubbotto/
+
+# maglietta trapstar
+https://trapstaritaly.org/maglietta/
