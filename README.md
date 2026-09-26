@@ -6,3 +6,6 @@ https://trapstaritaly.org/tuta/
 
 # Trapstar Italy
 https://trapstaritaly.org/
+
+# giubbotto trapstar
+https://trapstaritaly.org/giubbotto/
